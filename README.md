@@ -171,7 +171,7 @@ Through this project, the following concepts were practiced:
 
 Java Developer Enthusiast
 
-GitHub: Add your GitHub profile link here
+GitHub: [Indira Priyadarsini Nayak](https://github.com/indira-codes)
 
 ---
 
